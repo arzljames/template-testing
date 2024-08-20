@@ -1,0 +1,76 @@
+
+  - id: "8618-78dc-203e"
+    web:
+      metaDescription: ""
+      metaTitle: "y"
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 167
+      listed: true
+      createdByUserZUID: "55-eac7b0afef-7gzjd8"
+    data:
+      button_link: "f"
+      button_text: null
+      description: "<p></p>"
+      highlighted: null
+      image: null
+      run_to_date: null
+      title: "y"
+  - id: "384c-cac7-f626"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 165
+      listed: true
+      createdByUserZUID: "55-eac7b0afef-7gzjd8"
+    data:
+      button_link: "test3"
+      button_text: "TEST3"
+      description: "<p>TEST3</p>"
+      highlighted: 1
+      image: "https://f1ms7rfj.media.zestyio.com/rn_image_picker_lib_temp_4585b32b-1ccc-4255-9d50-e08e53c178c5.jpg"
+      run_to_date: "2024-08-05 23:26:59.000000"
+      title: "Test3"
+  - id: "9f87-0a28-c7fc"
+    web:
+      metaDescription: ""
+      metaTitle: "test"
+      metaLinkText: "test"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 157
+      listed: true
+      createdByUserZUID: "5-96c0ab8a82-vqbkbd"
+    data:
+      button_link: "fb.com2"
+      button_text: "test2"
+      description: "<p>TEST2</p>"
+      highlighted: 0
+      image: "https://f1ms7rfj.media.zestyio.com/1648441030701.By8vS7u8R.BkgA2sYUC.HJnZk3F8A.ryTGC-HDA.BymHRWSw0.jpg"
+      run_to_date: "2024-08-04 08:04:00.000000"
+      title: "test2"

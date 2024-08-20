@@ -1,0 +1,45 @@
+
+  - id: "115a-7c69-6c21"
+    web:
+      metaDescription: ""
+      metaTitle: "Test21"
+      metaLinkText: "Test21"
+      metaKeywords: null
+      pathPart: "test21"
+      path: "/test21/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 156
+      listed: true
+      createdByUserZUID: "55-eac7b0afef-7gzjd8"
+    data:
+      service_body: null
+      service_image: "https://f1ms7rfj.media.zestyio.com/rn_image_picker_lib_temp_acb15c89-9a48-41f1-9d85-ad8b0bf7f858.jpg"
+      start_date: "2024-07-18 13:20:44.000000"
+      title: "Test21"
+  - id: "07e8-9514-6fb2"
+    web:
+      metaDescription: "TETST"
+      metaTitle: "Service Item"
+      metaLinkText: "Service Item"
+      metaKeywords: null
+      pathPart: "service-item"
+      path: "/service-item/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 132
+      listed: true
+      createdByUserZUID: "5-96c0ab8a82-vqbkbd"
+    data:
+      service_body: "<div>TEST</div>"
+      service_image: "https://f1ms7rfj.media.zestyio.com/rn_image_picker_lib_temp_febca193-372b-4729-9f16-34e71f21739e.SkfudtIdA.jpg"
+      start_date: "2024-07-19 02:00:57.000000"
+      title: "Updated title"
